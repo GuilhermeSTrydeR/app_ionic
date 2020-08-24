@@ -1,1 +1,1 @@
-teste
+esse projeto faz parte da exigencias do curso de ciência da computação
